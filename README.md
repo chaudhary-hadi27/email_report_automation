@@ -53,9 +53,4 @@ python email_report_automation.py
 * Add email notifications after the weekly report is generated.
 
 ## License
-
-This project is licensed under the MIT License.
-[MIT License]
-
-Support multiple email accounts and report subjects.
-
+This project is licensed under the MIT License.MIT License
