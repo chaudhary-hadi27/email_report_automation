@@ -57,4 +57,4 @@ python email_report_automation.py
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is licensed under the [MIT License](LICENSE).  
-© 2025 the_fahad_works.
+© 2025 email_report_automation.
